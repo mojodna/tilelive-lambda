@@ -1,0 +1,11 @@
+{
+  "name": "tilelive-lambda",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Seth Fitzsimmons <seth@mojodna.net>",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1.27"
+  }
+}
